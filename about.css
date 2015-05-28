@@ -1,0 +1,47 @@
+body{
+   /*cursor: 'move';*/
+   background-image: url('http://img2.wikia.nocookie.net/__cb20120707225215/theregularshow/images/9/9e/Rainbow.gif');
+}
+
+h1 {
+    text-align:center;
+    margin:0 auto;
+    color:red;
+    background-color:white;
+    border: solid 3px red;
+    border-radius: 50px;
+    width: 270px;
+    height: 40px;
+}
+p{
+    font-size:25px;
+    
+}
+.orng{
+    color:orange;
+    background-color:black
+}
+.yellw{
+    color:yellow;
+    background-color:black;
+}
+.grn{
+    color:green;
+    background-color:black;
+}
+.purp{
+    color:blue;
+    background-color:black;
+}
+.xmas{
+    background-color:black;
+    position:relative;
+    left:300px;
+}
+#start{
+    color:purple;
+    font-size: 60px; 
+    position: relative;
+    top:20px;
+    left:400px;
+}

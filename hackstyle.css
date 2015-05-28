@@ -1,0 +1,33 @@
+body {
+background-image: url('http://i.imgur.com/QFCJC5E.gif');
+background-size: 50%;
+}
+h1{
+text-align: center;
+text-decoration:underline;
+color:red;
+font: italic bold 40px/60px Georgia, sans-serif, italic;
+}
+input{
+    height:100%;
+    width:100%;
+    font-size:30px;
+}
+.button-container {
+    text-align: center;
+}
+
+button {
+    font-size: 30px;
+    color: red;
+}
+#start {
+    font-size: 60px; 
+    position: relative;
+    top:300px;
+    
+}
+
+h1 {
+    font-size: 60px;
+}
